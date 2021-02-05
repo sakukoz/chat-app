@@ -19,9 +19,9 @@
 }
 
 .username{
+  text-decoration: none;
   color: #FAFAFA;
   font-size: 16px;
-  text-decoration: none;
 }
 
 .create-chat{
